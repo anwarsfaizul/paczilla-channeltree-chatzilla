@@ -1,4 +1,4 @@
-# Pa**cZ**illa Motif for chatzilla
+# Pa**cZ**illa Motif for ChatZilla
 
 
 ###### Based on JellyBeanDark & Motokai motif
